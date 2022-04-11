@@ -1,0 +1,137 @@
+.covid-container {
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0967d219;
+}
+
+.heading {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+
+.button {
+    color: #ffffff;
+    background-color: #0967d2;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 85px;
+    height: 30px;
+    border-width: 0;
+    border-radius: 8px;
+
+
+}
+
+.covid-card {
+    background-color: #0967d219;
+    border-radius: 12px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 18px;
+    text-align: left;
+    color: #323f4b;
+    font-weight: 500;
+}
+
+.paragraph {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #707070;
+    font-weight: 500;
+}
+
+.bg-container1 {
+    background-color: #3ebd93;
+    background-size: cover;
+    width: 60px;
+    padding: 5px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.symptoms {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    margin: 15px;
+}
+
+.sym-head {
+    color: white;
+    font-size: 10px;
+}
+
+.bg-container2 {
+    background-color: #e668a7;
+    background-size: cover;
+    width: 60px;
+    padding: 5px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.bg-container3 {
+    background-color: #a368fc;
+    background-size: cover;
+    width: 60px;
+    padding: 5px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.main-bg {
+    padding: 5px;
+    margin: 10px;
+}
+
+.video-card {
+    background-color: #e12d3919;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+
+
+}
+
+.img-videos {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.video-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.video-para {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #707070;
+    font-weight: 500;
+}
+
+.button1 {
+
+    font-family: "Roboto";
+    background-color: #0967d2;
+    color: #ffffff;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 30px;
+    width: 110px;
+    margin: 10px;
+
+}
+
